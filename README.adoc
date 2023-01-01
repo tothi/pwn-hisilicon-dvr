@@ -1054,3 +1054,8 @@ to public (it is a common thing, unfortunately).
 
 The released disclosure from Feb 2017 is available
 https://ssd-disclosure.com/ssd-advisory-hisilicon-multiple-vulnerabilities/[here].
+
+*UPDATE (2023-01-01):* This research is referenced by https://vulncheck.com/[VulnCheck]
+(on 2022-11-30) in this article about pwning Xiongmai devices
+by https://twitter.com/Junior_Baines[Jacob Baines]:
+https://vulncheck.com/blog/xiongmai-iot-exploitation
