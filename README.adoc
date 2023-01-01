@@ -1053,4 +1053,4 @@ vendor (HiSilicon) had been notified (by Beyond Security) at the end of
 to public (it is a common thing, unfortunately).
 
 The released disclosure from Feb 2017 is available
-https://blogs.securiteam.com/index.php/archives/3025[here].
+https://ssd-disclosure.com/ssd-advisory-hisilicon-multiple-vulnerabilities/[here].
